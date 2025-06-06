@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 Hi 👋 My name is Nikita Efanov
 ==============================
 
-Web Developer
+Neural network developer
 -------------
 
-I've one year practice as frontend developer
+I've one year practice as frontend developer. I completed a course for the position of neural network developer from The Founder company.
 
 *   🌍  I'm based in Russian Federation, Mezhdurechensk city
-*   🖥️  See my portfolio at [this site](http://efanovnikita.gitlab.io/portfolio-astro)
+*   🖥️  See my portfolio as frontend developer at [this site](http://efanovnikita.gitlab.io/portfolio-astro)
 *   ✉️  You can contact me at [efanov.nickitka@yandex.ru](mailto:efanov.nickitka@yandex.ru)
-*   🧠  I'm learning python and neural networks
